@@ -5,7 +5,10 @@
 <!-- ![github-org](https://user-images.githubusercontent.com/5892610/217623827-353dc1c1-d590-4679-9a54-7c7a9bfac188.png) -->
 
 <h2 align="center">
-<sub>❯ </sub><sub>durakiconsulting's</sub><sup><sup>Github Org! 🎉</sup></sup><br><br></h2> 
+<sup><sup>❯❯</sup>&nbsp;</sup><sup>durakiconsulting's</sup>
+<sub><sub>GitHub Org! 🎉</sub></sub>
+
+</h2>
 
 Follow [durakiconsulting](https://durakiconsulting.com)'s organization on GitHub, where we love all things open source.
 
