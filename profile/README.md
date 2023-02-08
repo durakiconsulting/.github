@@ -9,7 +9,7 @@
 This is official Github organization owned and managed by [durakiconsulting](https://durakiconsulting.com) team! 
 
 
-We are a highly specialised cybersecurity agency based in Denwer, USA (🇺🇸), having offices in Sarajevo, Bosnia-Herzegovina (🇧🇦). You may find published, open-source, offensive security tools, codes, and setups. New publications, and some of our research will be available here. Use the `**Folow**` button to keep track of our publications, reports and progress.
+We are a highly specialised cybersecurity agency based in Denwer, USA (🇺🇸), having offices in Sarajevo, Bosnia-Herzegovina (🇧🇦). You may find published, open-source, offensive security tools, codes, and setups. New publications, and some of our research will be available here. Use the **`Folow`** button to keep track of our publications, reports and progress.
 
 
 ## Participating in the community
