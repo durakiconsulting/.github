@@ -29,7 +29,7 @@ We are a highly specialised cybersecurity agency based in US, having offices in 
 Learn more about what we're doing in open source at [github](https://github.com/durakiconsulting).
 Interested in a career at durakiconsulting, LLC? Talented to break, pwn and bypass? Please, send your resume at [Careers](mailto:hello@durakiconsulting.com)!
 
-👋  Say Hi on Twitter [@durakiconsulting](https://twitter.com/0xduraki)
+👋  Say Hi on Twitter [@WeAreDCLLC](https://twitter.com/WeAreDCLLC)
 
 
 <hr>
@@ -37,12 +37,3 @@ Interested in a career at durakiconsulting, LLC? Talented to break, pwn and bypa
 <p align="center">
 <sup>Shotoutzz to all hax0rs, pwners, and oldskool sceners -- those who invented, shared, pass it on. Those who did it prior us, for the crew, lulz and community. <br>Long live 1337ers 🖤<sup><br>Deaths and dooms to all sk33dz ☠️</sup></sup>  
 </p>
-
-
-<!--
-
-<hr>
-
-
-<img src="https://user-images.githubusercontent.com/5892610/217623827-353dc1c1-d590-4679-9a54-7c7a9bfac188.png" width="auto" alt="Black blackground Durakiconsulting LLC banner showing Secure your business subtitle and Specialized in Offensive Security and Vulnerability Research">
--->
