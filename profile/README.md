@@ -12,7 +12,7 @@
 
 Follow [durakiconsulting](https://durakiconsulting.com)'s organization on GitHub, where we love all things open source.
 
-We are a highly specialised cybersecurity agency based in US, having offices in Sarajevo, Bosnia-Herzegovina (🇧🇦) & San Francisco, CA, USA (🇺🇸). You may find published, open-source, offensive security tools, codes, and setups. New publications, and some of our research will be available here. Use the **`Folow`** button to keep track of our publications, reports and progress.
+We are a highly specialised cybersecurity agency based in US, having offices in Sarajevo, Bosnia-Herzegovina (🇧🇦) & San Francisco, CA, USA (🇺🇸). You may find published, open-source, offensive security tools, codes, and setups. New publications, and some of our research will be available here. Use the **`Follow`** button to keep track of our publications, reports and progress.
 
 * :books: 4+ academic papers. [Reversing, Exploitation, Intelligence](https://durakiconsulting.com/portfolio/), you name it, we did it!
 * :computer: 5+ Common Vulnerabilities and Exposures. [CVE's](https://durakiconsulting.com/portfolio/) are listed on internets!
